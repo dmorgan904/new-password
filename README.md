@@ -14,7 +14,7 @@ This is my Weekly Challenge #3 for my Coding Boot Camp class. The assignment was
 ### Usage
 This application can be used by an employer to gain access to sensitve data. A new password must be created every time so that one is not written down or remembered. This can also be used by someone who has trouble thinking of new passwords.
 
-![Portfolio](images\Password-GeneratorSC.png)
+![Portfolio](images/Password-GeneratorSC.png)
 
 ## Credits
 I collaborated with Kip, a classmate, to better understand how to get started with this project so I would like to give him a huge thank you.
